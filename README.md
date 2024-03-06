@@ -1,5 +1,7 @@
 # Circun Display 1.0
 
+[Download](https://github.com/caepenna/circun/raw/main/otf/Circun-Display.otf)
+
 Circun is a modular geometric display font; ideal for large titles, logos and graphic elements.
 
 Feel free to contribute, open inssues, send suggestions or considerations.
